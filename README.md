@@ -1,3 +1,2 @@
-This is a throwaway repo used to learn about working with Git and GitHub.
+This is a repo used to learn about Python.
 
-There is nothing of any significant value in this repo.
